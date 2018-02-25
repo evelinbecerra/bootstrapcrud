@@ -1,0 +1,20 @@
+{
+  "name": "practica3",
+  "version": "1.0.0",
+  "description": "index.html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "Maria Evelin Becerra Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  }
+}
